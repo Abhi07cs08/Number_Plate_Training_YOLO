@@ -31,7 +31,7 @@ import os
 import torch
 import torch.nn as nn
 
-# Optional: Add custom repository path if using a local copy
+# IF USING LOCAL COPY: Add custom repository path if using a local copy
 # sys.path.insert(0, "F:/zygalnewpre/Abhinn/ultralytics_abhi")
 
 # Define SimAM module
