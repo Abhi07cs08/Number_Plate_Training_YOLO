@@ -2,6 +2,8 @@
 YOLOv11-SimAM ANPR Inference Guide (Kaggle)
 This repository demonstrates how to run inference using a customized YOLOv11 model trained for Automatic Number Plate Recognition (ANPR). The model includes architectural modifications such as GhostConv, SimAM attention, and a modified C3k2 detection head.
 
+I hhave also uploaded the main files that were modified to incorporate the simulatneous attention module and the Ghost Convolution layer.
+
 Folder Structure (Kaggle Environment)
 Ensure the following directory structure is set up correctly in your Kaggle Notebook environment:
 
